@@ -55,14 +55,13 @@ The following visualizations are generated in this analysis:
   ![budget_vote_average](https://github.com/user-attachments/assets/a60f7aa9-bd24-43ae-ac52-0c5b03ea5020)
 
 - **Vote Average vs % Profit**
-  
-![profit_vote](https://github.com/user-attachments/assets/0f885258-3116-4d80-b847-2238069d6b63)
+  ![profit_vote](https://github.com/user-attachments/assets/0f885258-3116-4d80-b847-2238069d6b63)
 
 - **Gener vs Total Budget and Revenue**
-![mean_budget_and_revenue_by_genre](https://github.com/user-attachments/assets/e47d7ed2-cf43-4107-b2b2-afce2ef3abe2)
+  ![mean_budget_and_revenue_by_genre](https://github.com/user-attachments/assets/e47d7ed2-cf43-4107-b2b2-afce2ef3abe2)
 
 - **Gener vs % % Profit**
-![perct_profit_by_genre](https://github.com/user-attachments/assets/021002fe-d0b2-4361-86d6-6c474faa1def)
+  ![perct_profit_by_genre](https://github.com/user-attachments/assets/021002fe-d0b2-4361-86d6-6c474faa1def)
 
 All visualizations are saved as PNG files in the `graphics` directory.
 
