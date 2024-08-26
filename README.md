@@ -1,6 +1,6 @@
 # Does Money Really Matter? 
 
-This project analyzes movie data from the TMDB dataset, specifically focusing on films released between January 1, 2019, and December 31, 2023. The analysis aims to understand the relationship between various factors such as budget, revenue, profit percentage, vote averages, and genres. The code is implemented in Python using libraries like `pandas`, `matplotlib`, and `scipy`.
+This project analyzes movie data from the TMDB dataset, specifically focusing on films released between January 1, 2019, and December 31, 2023. The analysis aims to understand the relationship between various factors such as budget, revenue, profit percentage, vote averages, and genres. The code is implemented in Python using libraries like `pandas`, `matplotlib`, `numpy` and `scipy`.
 
 ## Dataset
 
