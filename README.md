@@ -46,6 +46,8 @@ Similarly, the mean revenues for each genre are calculated to understand the fin
 The following visualizations are generated in this analysis:
 
 - **Total Budget vs % Profit**
+  ![budge_profit](https://github.com/user-attachments/assets/ea448d73-6990-4b61-bcd7-abb23c7a90a7)
+
 - **Total Budget vs Revenue**
 - **Total Budget vs Vote Average**
 - **Vote Average vs % Profit**
