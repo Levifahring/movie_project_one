@@ -1,6 +1,20 @@
 # Does Money Really Matter? 
 
-This project analyzes movie data from the TMDB dataset, specifically focusing on films released between January 1, 2019, and December 31, 2023. The analysis aims to understand the relationship between various factors such as budget, revenue, profit percentage, vote averages, and genres. The code is implemented in Python using libraries like `pandas`, `matplotlib`, `numpy` and `scipy`.
+This project analyzes movie data from the TMDB dataset, specifically focusing on films released between January 1, 2019, and December 31, 2023. The analysis aims to understand the relationship between various factors such as budget, revenue, profit percentage, vote averages, and genres.
+
+### Requirements
+ Python 3.10 with 
+`Pandas`
+`Matplotlib`
+`Scipy`
+`NumPy`
+
+You can install the required packages using:
+
+```bash
+  pip install pandas matplotlib scipy numpy
+
+```
 
 ## Dataset
 
@@ -40,6 +54,14 @@ We categorize movies into genres such as SciFi, Horror, Action, RomCom, Comedy, 
 ### Mean Revenues by Genre
 
 Similarly, the mean revenues for each genre are calculated to understand the financial success of different genres.
+
+### Statistical Analysis
+#### NOVA Test:
+An analysis of variance (ANOVA) is performed to compare the profit percentages across selected genres (Action, Horror, Comedy, SciFi, RomCom). The results indicate whether there are significant differences in profit means among these genres.
+#### Box-and-Whisker Plot:
+A box-and-whisker plot visualizes the profit distribution for each genre, highlighting outliers and the overall spread of the data.
+#### T-Tests:
+Pairwise t-tests are conducted to compare profit percentages between various genre pairs, determining if significant differences exist in their means.
 
 ## Visualizations
 
